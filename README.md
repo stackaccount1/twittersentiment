@@ -1,7 +1,7 @@
-# twittersentiment
+# twitter and reddit sentiment
 
 ## crypto twitter sentiment project
-### pull tweets from popular crypto traders, graph positive sentiment and negative sentiment and the coin/crypto associated, also general reddit sentiment:
+### pull tweets from popular crypto traders, graph positive sentiment and negative sentiment and the coin/crypto associated, grab posts from cryptocurrency trading subreddits and graph positive and negative sentiment:
 
 Example Positive Last 100 Tweets:
 ![positive](https://github.com/stackaccount1/twittersentiment/assets/61128114/8f6c0a26-1860-4592-a1cb-981b76bc43cf)
